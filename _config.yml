@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Aden Kumary"
   avatar : "/assets/images/7077.png"
-  bio    : "Architect|GEE expert|Urban Analytics"
+  bio    : "Architect|GEE|Urban Analytics"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
