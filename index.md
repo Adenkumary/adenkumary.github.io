@@ -8,13 +8,13 @@ author_profile: true
 <style>
 /* Page-only font size tweak — adjust 0.9rem / 14px as needed */
 main, .content, .page, article, .post {
-  font-size: 0.95rem;
-  line-height: 1.45;
+  font-size: 0.65rem;
+  line-height: 1.25;
 }
 
 /* Narrower text for author profile if present */
 .author-profile, .author-profile p {
-  font-size: 0.95rem;
+  font-size: 0.75rem;
 }
 </style>
 
