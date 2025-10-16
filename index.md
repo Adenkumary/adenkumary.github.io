@@ -24,6 +24,22 @@ main, .content, .page, article, .post {
 I am a PhD student in architecture in the <a href="https://www.sustainabledesign.arct.cam.ac.uk" target="_blank" rel="noopener noreferrer">Sustainable Design Group</a> at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now. I hold a master’s degree in architecture and urban studies from the University of Cambridge and a bachelor’s degree in architecture from the University of Nairobi. Beyond the scale of buildings, I am also interested in the impact of the urban environment on human health, including the growing challenge of urban heat stress. My work aims to map the complex interplay  between urban density, green infrastructure, and climate change, and their influence, particularly in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
 </p>
 
+<style>
+/* Page-only font size tweak — adjust 0.9rem / 14px as needed */
+main, .content, .page, article, .post {
+  font-size: 0.7rem;
+  line-height: 1.30;
+}
+
+/* Narrower text for author profile if present */
+.author-profile, .author-profile p {
+  font-size: 0.75rem;
+}
+</style>
+
+**About me**
+
+I am a PhD student in architecture in the [Sustainable Design Group](https://www.sustainabledesign.arct.cam.ac.uk) at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now. I hold a master’s degree in architecture and urban studies from the University of Cambridge and a bachelor’s degree in architecture from the University of Nairobi. Beyond the scale of buildings, I am also interested in the impact of the urban environment on human health, including the growing challenge of urban heat stress. My work aims to map the complex interplay between urban density, green infrastructure, and climate change, and their influence, particularly in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
 
 
 
