@@ -21,7 +21,7 @@ main, .content, .page, article, .post {
 **About me**
 <p style="text-align:justify; text-align-last:left justify;">
 
-I am a PhD student in architecture in the <a href="https://www.sustainabledesign.arct.cam.ac.uk" target="_blank" rel="noopener noreferrer">Sustainable Design Group</a> at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now. I hold a master’s degree in architecture and urban studies from the University of Cambridge and a bachelor’s degree in architecture from the University of Nairobi. Beyond the scale of buildings, I am also interested in the impact of the urban environment on human health, including the growing challenge of urban heat stress. My work aims to map the complex interplay  between urban density, green infrastructure, and climate change, and their influence, particularly in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
+I am a PhD student in architecture in the <a href="https://www.sustainabledesign.arct.cam.ac.uk" target="_blank" rel="noopener noreferrer">Sustainable Design Group</a> at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now. I hold a master’s degree in architecture and urban studies from the University of Cambridge and a bachelor’s degree in architecture from the University of Nairobi. Beyond the scale of buildings, I am also interested in the impact of the urban environment on human health, particularly the growing challenge of urban heat stress. My work aims to map the complex interplay  between Urbanisation, urban density, green infrastructure, and climate change, and their influence, especially in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
 </p>
 
 <style>
@@ -49,14 +49,15 @@ I am currently working on:
   <p style="text-align:justify; text-align-last:left;"> <em>
 This project attempts to empirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall heat stress burden in the city. The project leverages façade parsing and deep learning to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
 </em>
+
  - **Project 2:** **Impact of WWR change on EUI and URBAN HEAT STRESS**  
   <p style="text-align:justify; text-align-last:left;"> <em>
 Project two entails further analysis of project 1. Firstly, computational simulation will be utilized to assess impact of density change in the AOI on UHIE and EUI. Secondly, using UMI and UBEM.io energy use intensive of buildings will be simulated at district level and further developed with more details for thermal resilience assessment which will be project 3.
 </em>
+
     
  - **Project 3:** **Assessment of Thermal resilience performance for selected cases for current and future climates**  
   <p style="text-align:justify; text-align-last:left;"> <em>
 Project 3 entails detailing of selected cases using architectural drawings & GSV images and conducting a simulation analysis of their thermal performance during extreme weather event now and for future climate scenarios (2050&2080).
 </em>
 
-- Project 4
