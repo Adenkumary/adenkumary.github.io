@@ -1,9 +1,7 @@
 main:
   - title: "Publications"
-    url: /Publications/
+  url: /Publications/
   - title: "Projects"
-    url: /Projects/
+  url: /Projects/
  - title: "Events"
-  url: /Events/
-  #- title: "About"
-   # url: /about/
+ url: /Events/
