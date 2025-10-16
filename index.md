@@ -18,23 +18,10 @@ main, .content, .page, article, .post {
 }
 </style>
 
-<style>
-/* Make main content fully justified */
-main, .content, .page, article, .post, .author-profile {
-  text-align: justify;
-  /* Ensure the last line: change to 'left' if you prefer a ragged last line */
-  -moz-text-align-last: justify;
-  text-align-last: justify;
-  /* Allow hyphenation for better spacing */
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-}
-</style>
-
 **About me**
-
+<p style="text-align:justify; text-align-last:justify; -webkit-hyphens:auto; -ms-hyphens:auto; hyphens:auto;">
 I am a PhD student in architecture in the [**Sustainable Research Group**](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now. I hold a master’s degree in architecture and urban studies from the University of Cambridge and a bachelor’s degree in architecture from the University of Nairobi. Beyond the scale of buildings, I am also interested in the impact of the urban environment on human health, including the growing challenge of urban heat stress. My work aims to map the complex interplay  between urban density, green infrastructure, and climate change, and their influence, particularly in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
+</p>
 
 **Education**
 - Bachelor of Architectural studies,  University of Nairobi, 2017
