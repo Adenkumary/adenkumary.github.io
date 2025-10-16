@@ -53,5 +53,10 @@ This project attempts to empirically quantify the extent to which globalization 
   <p style="text-align:justify; text-align-last:left;"> <em>
 Project two entails further analysis of project 1. Firstly, computational simulation will be utilized to assess impact of density change in the AOI on UHIE and EUI. Secondly, using UMI and UBEM.io energy use intensive of buildings will be simulated at district level and further developed with more details for thermal resilience assessment which will be project 3.
 </em>
-- Project 3
+    
+ - **Project 3:** **Assessment of Thermal resilience performance for selected cases for current and future climates**  
+  <p style="text-align:justify; text-align-last:left;"> <em>
+Project 3 entails detailing of selected cases using architectural drawings & GSV images and conducting a simulation analysis of their thermal performance during extreme weather event now and for future climate scenarios (2050&2080).
+</em>
+
 - Project 4
