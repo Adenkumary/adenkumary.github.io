@@ -8,13 +8,27 @@ author_profile: true
 <style>
 /* Page-only font size tweak — adjust 0.9rem / 14px as needed */
 main, .content, .page, article, .post {
-  font-size: 0.75rem;
-  line-height: 1.45;
+  font-size: 0.7rem;
+  line-height: 1.30;
 }
 
 /* Narrower text for author profile if present */
 .author-profile, .author-profile p {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
+}
+</style>
+
+<style>
+/* Make main content fully justified */
+main, .content, .page, article, .post, .author-profile {
+  text-align: justify;
+  /* Ensure the last line: change to 'left' if you prefer a ragged last line */
+  -moz-text-align-last: justify;
+  text-align-last: justify;
+  /* Allow hyphenation for better spacing */
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 </style>
 
