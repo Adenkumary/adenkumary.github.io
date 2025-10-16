@@ -14,6 +14,10 @@ I am a PhD student in architecture in the Sustainable Research Group at the Univ
 - Bachelor of Architecture University of Nairobi, 2019
 - Master of Philosophy in architecture and urban studies, University of Cambridge, 2024
 
+-Resume
+<iframe src="https://drive.google.com/file/d/1MEEXiGl59vlMqnxSztle1b1Qi4rHOZHx/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 I am currently working on:
 
 - Project 1 
