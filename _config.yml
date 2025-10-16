@@ -86,9 +86,9 @@ footer:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "Aden Kumary
+    #- label: "Linkedin"
+    #  icon: "fab fa-linkedin"
+    #  url: "Aden Kumary
 
 defaults:
   # _posts
