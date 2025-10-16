@@ -7,7 +7,9 @@ main:
      url: /Publications/
    - title: "Events"
      url: /Events/
-   - title: "Blog"
-     url: /Blog/
    - title: "Portfolio"
      url: https://www.behance.net/Adenkumary/
+   - title: "Photography"
+     url: /Photography/
+   - title: "Blog"
+     url: /Blog/
