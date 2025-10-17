@@ -47,7 +47,7 @@ main, .content, .page, article, .post {
 I am currently working on:
 - **Project 1: McDonaldization of Nairobi City — Has It Really Happened?**  
   <p style="text-align:justify; text-align-last:left;"> <em>
-This project attempts to empirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall heat stress burden in the city. The project leverages façade parsing and deep learning to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
+This project strives to empirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall urban heat stress burden in the city. The project leverages façade parsing and deep learning technique to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
 </em>
  - **Project 2: Impact of WWR change on EUI and Urban Heat Stress**
  - **Project 2:Assessment of thermal resilience performance for selected cases for current and future climates**  
