@@ -1,1 +1,11 @@
-Create custom.css
+/* Make the main menu titles smaller */
+.nav__items a {
+  font-size: 0.85rem; /* adjust as you like */
+  text-transform: none; /* optional: prevents all caps */
+}
+
+/* Optional: make hover size or style consistent */
+.nav__items a:hover {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
