@@ -1,11 +1,12 @@
-/* Make the main menu titles smaller */
+/* Make main navigation titles smaller but keep them uppercase */
 .nav__items a {
-  font-size: 0.85rem; /* adjust as you like */
-  text-transform: none; /* optional: prevents all caps */
+  font-size: 0.8rem;   /* adjust to your preferred size */
+  text-transform: uppercase; /* keep uppercase letters */
+  letter-spacing: 0.05em; /* optional: adds slight spacing for readability */
+  font-weight: 600; /* optional: keep them visually balanced */
 }
 
-/* Optional: make hover size or style consistent */
+/* Optional hover effect for consistency */
 .nav__items a:hover {
-  font-size: 0.85rem;
   opacity: 0.8;
 }
