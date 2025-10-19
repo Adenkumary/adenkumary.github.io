@@ -22,6 +22,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: Adenkumary
 github_username: Adenkumary
 minimal_mistakes_skin: default
+sass:
+  style: compressed
+
+# Include your own stylesheet
+include:
+  - assets/css/custom.css
 search: true
 
 # Build settings
@@ -120,11 +126,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-minimal_mistakes_skin: default
-sass:
-  style: compressed
-
-# Include your own stylesheet
-include:
-  - assets/css/custom.css
 
