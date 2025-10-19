@@ -119,3 +119,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+minimal_mistakes_skin: default
+sass:
+  style: compressed
+
+# Include your own stylesheet
+include:
+  - assets/css/custom.css
+
