@@ -9,10 +9,8 @@ main:
      url: /Publications/
    - title: "Projects"
      url: /Projects/
-   - title: "Events"
-     url: /Events/
    - title: "Portfolio"
-     url: https://www.behance.net/Adenkumary/
+     url:  /Portfolio/
    - title: "Photography"
      url: /Photography/
    - title: "Blog"
