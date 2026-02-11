@@ -25,13 +25,15 @@ I hold a Master's in Architecture and Urban studies from the University of Cambr
 -	Bachelor of Architecture University of Nairobi, 2019
 -	Master of Philosophy in architecture and urban studies, University of Cambridge, 2024
 
-Additionally, I have worked as an architect for 5 years handling varied projects across East Africa.
+Additionally, I have worked as an architect for 5 years handling varied projects across East Africa. 
+Have a glance at some omy projects (**here**)](https://www.behance.net/Adenkumary)
 
 ## Technical Skills
 
-I am proficient:
+I am proficient in the followinf:
 
-**Archicad**,**SketchUp**, **Autocad**, **Lumion**, **QGIS**, **R**, **Python** (intermediate), **Google igtEarth Engine** .
+**Archicad**, **SketchUp**, **Autocad**, **Lumion**, **QGIS**, **R**, **Python** (intermediate), **Google Earth Engine**.
+**Indesign**, **Rhinocerous**
 
 
 ## Teaching & Mentoring
