@@ -10,7 +10,7 @@ format:
 comments: false
 ---
 
-Environmental data scientist with a passion for leveraging computational tools to address global challenges such as climate change, biodiversity loss, and urban sustainability. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge, where my research focuses on assessing the impacts of urban vegetation on sustainability in cities under.
+Architect  with a passion for leveraging computational tools to address global challenges such as climate change, biodiversity loss, and urban sustainability. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge, where my research focuses on assessing the impacts of urban vegetation on sustainability in cities under.
 
 ## Research
 
@@ -18,9 +18,9 @@ My curretn research integrates high-resolution LiDAR and aerial images of Englan
 
 ## Background
 
-I hold a Master's in Environmental Data Science from the University of Cambridge and a Master's in Biological Sciences from Universidad de los Andes (Uniandes), where I specialized in paleoecology and ancient DNA. My research has spanned diverse areas, from characterising carbon sequestration in Colombian páramo peatbogs to analyzing how vegetation impacts urban sustainability. I did a double major in Biology and Microbiology in Uniandes.
+I hold a Master's in Architecture and Urban studies from the University of Cambridge and a Bachelor of architecture from Universidad Nairobi (UoN). My research has spanned diverse areas, from characterising carbon sequestration in Colombian páramo peatbogs to analyzing how vegetation impacts urban sustainability. I did a double major in Biology and Microbiology in Uniandes.
 
-In addition, I worked for a real estate company in Colombian extracting data from different market places, developing machine learning models for client classification and price prediction for several cities in Colombia.
+In addition, I worked  as an architect for 5 years handling projects across East Africa.
 
 ## Technical Skills
 
