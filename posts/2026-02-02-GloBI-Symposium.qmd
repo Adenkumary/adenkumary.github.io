@@ -23,7 +23,7 @@ For my presentation, I aimed to demonstrate how the GLoBI dataset could unlock o
 
 ![Me Presenting](../assets/images/projects/phd-blog/mit3.PNG)
 
-## Other work
+## Other works
 
  I am currently working on a conference paper connected to my PhD. The paper examines the evolution of urban morphological parameters in Nairobi and their impact on heat stress. It is scheduled to be presented at the end of March. Alongside this work, I am also developing a heat-adaptive architectural design for an ongoing competition in which I participated between July and November 2025. I was selected as one of ten nominees invited to further refine the design. If my proposal wins, it will be presented at the upcoming COP in Türkiye. The deadline is approaching fast. I need that out of my table.
 
