@@ -1,30 +1,44 @@
 ---
-title: Catching up with stuff
-date: 2026-02-01
+title: Globi Symposium _ MIT 
+date: 2026-02-0102
 image: ../assets/images/projects/phd-blog/2026-02-01-week.gif
 categories:
 - phd
 license: "CC BY"
 copyright:
-    holder: "Andrés C. Zúñiga-González"
+    holder: "Aden Kumary"
     year: 2026
 ---
 
 # Introduction
-The last week was my first back in the UK, which meant that most of the week was spent reviewing where I left things in December last year. That also included doing supervision work for the Maths and programming course I was teaching in the Department of Architecture.
+Last week, I travelled to America,Boston, to be precise. I was quite worn out, having just arrived from home. I hadn’t had much time to settle in, but despite this, I was excited about the symposium I was due to attend and the opportunity to explore a new city. However, I couldn’t help feeling a little concerned, as the region was experiencing one of the worst blizzards in recent years. Temperatures were between −17 and −20 degrees Celsius. Anyway, that’s beside the point, lets get back to the reason for my visit to Boston.
 
-## 3-30-300 Project
+## The GloBI Project
 
-As mentioned in the previous post, the paper didn't even make it to the review process so I've been working on tailoring it to fit the new journal. What this means is that I've had to tone down on certain topics like urban planning in order to make more emphasis in the environmental and natural aspect of the paper. 
+Over the last week of January, I had the opportunity to visit MIT to take part in a workshop titled GLoBI (Global Building Inventory). The symposium was part of ongoing research geared towards democratising access to granular building energy consumption data for climate action. I was representing Nairobi and had the chance to present a use case for the city.
 
-Although not related to the paper, I started the transition of the main module attached to the paper to a new project so it can be installed as a package. The idea is for the metrics to be calculated for a given city or region, regardless of whether they are in England or not (as the current code works). How I'm doing it is by extending the capabilities of the code to extract buildings from OSM, but also to give the user the option to provide their own building polygons. In addition to this, users would need to provide a tree dataset and a park one (which could be from OSM as well). The reason behind this work is because in the meetings with Ronita, we had discussed the possibility of doing a comparative study with cities outside the UK, and I wanted to reduce the amount of work required to do so, by standardising the existing one and turning it into a package.
+As a rapidly growing city experiencing immense, largely unregulated urban expansion, Nairobi needs strong policies to safeguard the majority of residents who are vulnerable to the effects of climate change.
+
+In 2024, global temperatures officially crossed 1.5°C above pre-industrial levels. This spells danger for humanity as a whole, but poses double jeopardy for cities in the Global South, Nairobi included. With a swelling urban population, millions of residents will be exposed to the effects of extreme weather attributable to climate change. Unfortunately, Nairobi lacks the resources to swiftly adapt to these new realities.
+
+As one of the most unequal cities in the world, it is high time we go back to the drawing board and ask hard questions: How can we, as a city, brace ourselves for an inevitably harsher future? How can we ensure that the mama mboga and the innocent infant in Mukuru kwa Njenga are safeguarded against the severe effects of extreme weather? The answer lies in policy—formulating policies that ensure the city’s growth and trajectory follow a sustainable path.
+
+The Nairobi Action Plan (2000–2050) clearly outlines the need to climate-proof Nairobi’s housing stock and to ensure a clean and sustainable energy sector. The now twenty-six-year-old document highlights actions such as the development of EPCs for all buildings and establishing baseline energy consumption data; however, little has been done so far. When I first joined the GLoBI project, I was excited when the lead professor, Christoph Reinhart, reiterated that a key goal of the project is to ensure that the datasets generated are open source. This means researchers in Nairobi will have access to rich data enabling advanced urban analytics, which can in turn influence evidence-based policy to climate-proof building stock and improve adaptability to an increasingly warmer future.
+
+The discussions were deep, eye-opening, and cross-cutting. Two main themes emerged: decarbonisation and retrofitting, and human health and climate change adaptation. One of the key takeaways for me came from the simulation workshop on day one. The pipeline developed by Christoph, Sam Wolk, Darya, and the team, which enables the simulation of thousands of buildings, was particularly impressive. It was also interesting to see use cases from different countries and realise how divergent our immediate priorities are, even though we are all ultimately working towards a more robust and resilient built environment.
+
+For my presentation, I aimed to demonstrate how the GLoBI dataset could help the NCC and many other Global South cities formulate data-driven policies informed by empirical evidence. I showcased a case study illustrating how unregulated urban sprawl and densification have exacerbated the urban heat island effect in Nairobi neighbourhoods. Furthermore, I presented a pilot study assessing thermal autonomy and passive survivability of an office building under current and projected climate conditions. The analysis involved a seven-day simulation during an extreme weather event in mid-February, typically the hottest period in Nairobi. The HVAC systems were turned off, and natural ventilation was used for the building with operable windows, with a reasonable allowance for leakage in the building without operable windows. The aim was to demonstrate that the shift in architectural design towards glass-clad buildings in Nairobi is not only increasing energy demand, but also reducing productivity, negatively impacting human health due to overheating, and—most importantly—weakening the adaptive capacity of buildings in an inevitably warmer future.
+
+Nairobi presents a critical case that requires closer analysis. As a leading regional hub, many East African countries look to us for direction; therefore, we must lead by example. This means allocating more resources and time to ensure the city has the necessary mechanisms to adapt to future climate conditions and the evolving needs of its residents. Currently, the city is grappling with dilapidated utilities, severe unregulated development, extreme inequality, the absence of comprehensive development blueprints (master and spatial plans), and poor enforcement of existing policies. Notably, it was only in 2024 that a new building code was enacted—the first since 1968.
+
+Policy formulation must outpace urban growth and expansion, and it must reflect both present and future needs. A bottom-up approach, where community participation is meaningful rather than symbolic, is essential—and it must be geared towards protecting vulnerable and marginalised groups.
 
 ## Other work
 
-As part of his PhD project, my fellow SDG member [Saitabau Kumary](https://www.mastercardfoundation.fund.cam.ac.uk/staff/saitabau-kumary), is working on the built up infrastructure of Nairobi in Kenya. I am part of the project and I measured some of the spectral signature across the years that Sentinel-2 is available to see how built up areas and vegetation have changed over time (see image below). Although the urban growth is not very clear, there are some patterns of NDVI reduction. We'll likely have to narrow the analysis to a specific period in the year (e.g. rainy season) to avoid misinterpretation of the data due to seasonal variations.
-
-![Average NDVI for Nairobi between 2016 and 2025](../assets/images/projects/phd-blog/2026-02-01-week.gif)
+ I am currently working on a conference paper connected to my PhD. The paper examines the evolution of urban morphological parameters in Nairobi and their impact on heat stress. It is scheduled to be presented at the end of March. Alongside this work, I am also developing a heat-adaptive architectural design for an ongoing competition in which I participated between July and November 2025. I was selected as one of ten nominees invited to further refine the design. If my proposal wins, it will be presented at the upcoming COP in Türkiye. The deadline is approaching fast. I need that out of my table 
 
 ## Weekly Objectives
-- Prepare slides for SDG meeting next week
-- Finish corrections for the new version of the manuscript
+- Prepare slides for SDG meeting on 4th/February
+- Prepare Slide for Environmental design lecture  earlier next month 
+- Finish HAAD design and presentation board
+- Analysis for the Conference paper 
