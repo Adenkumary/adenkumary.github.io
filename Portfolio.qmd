@@ -1,8 +1,0 @@
----
-title: "Portfolio"
-comments: false
-listing:
-  contents: posts
-
-
-Welcome to my Collection! Here you'll find my weekly PhD notes and posts about my research, papers and books I've read or general discussions, and Presentations. Feel free to read and leave comments.
