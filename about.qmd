@@ -10,7 +10,7 @@ format:
 comments: false
 ---
 
-Architect  with a passion for design and leveraging computational tools to address challenges such as rising urban heat, Building's thermal and energy performance, Urban heat stress, and impact of the built environment on urban climate. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge supervised by professor Ronita Bardhan, where my research focuses on assessing the thermal resilience of buildings under current and projected climate with focus on African cities.
+Architect  with a passion for design and leveraging computational tools to address challenges such as rising urban heat, Building's thermal and energy performance, Urban heat stress, and the general envrionmental impact of the built environment on urban climate. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge supervised by professor Ronita Bardhan, where my research focuses on assessing the thermal resilience of buildings under current and projected climate with focus on African cities.
 
 
 ## Research
