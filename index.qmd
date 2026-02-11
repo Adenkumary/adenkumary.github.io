@@ -10,7 +10,7 @@ about:
     image-shape: round
     links: 
       - icon: github
-        href: https://github.com/ancazugo
+        href: https://github.com/adenkumary
       # - text: "{{< iconify fa7-brands bluesky >}}"
       #   href: https://bsky.app/profile/ancazugo.bsky.social
     #   - icon: twitter
