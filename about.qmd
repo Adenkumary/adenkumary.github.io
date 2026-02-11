@@ -1,7 +1,7 @@
 ---
 title: "About"
 subtitle: "PhD Student @ University of Cambridge"
-image: assets/images/7077.png. 
+image: assets/images/7077.png
 about:
   template: trestles
 format: 
