@@ -1,7 +1,7 @@
 ---
 title: GloBI Symposium MIT 
 date: 2026-02-01
-image: ../assets/images/projects/phd-blog/2026-02-01-week.gif
+image: ../assets/images/projects/phd-blog/mit.jpg
 categories:
 - phd
 license: "CC BY"
