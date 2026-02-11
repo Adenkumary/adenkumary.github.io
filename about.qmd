@@ -1,22 +1,21 @@
 ---
 title: "About"
 subtitle: "PhD Student @ University of Cambridge"
-image: assets/images/about.jpg
+image: assets/images/7077.jpg. 
 about:
-  template: jolla
+  template: trestles
 format: 
   html:
     page-layout: full
 comments: false
 ---
 
-Architect  with a passion for leveraging computational tools to address global challenges such as climate change, biodiversity loss, and urban sustainability. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge, where my research focuses on assessing the impacts of urban vegetation on sustainability in cities under.
+Architect  with a passion for design and leveraging computational tools to address global challenges such as rising urban heat due climate change,Building thermal performance, Urban forest decline, and impact of the built environment on urban climate. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge supervised by professor Ronita Bardhan, where my research focuses on assessing the thermal resilience of buildings under current and projected climate with focus on African cities.
 
-I am a PhD student in architecture in the Sustainable Design Group at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now. I hold a master’s degree in architecture and urban studies from the University of Cambridge and a bachelor’s degree in architecture from the University of Nairobi. Beyond the scale of buildings, I am also interested in the impact of the urban environment on human health, particularly the growing challenge of urban heat stress. My work aims to map the complex interplay between Urbanisation, urban density, green infrastructure, and climate change, and their influence, especially in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
 
 ## Research
 
-My curretn research integrates high-resolution LiDAR and aerial images of England to map trees in cities and, alongisde other geospatial datasets, assess the impact of urban vegetation in cities and its relationship to socio-economic indicators. I make heavy use of R, Python, Spark, Google Earth Engine, as well as specific tools for statistical modeling, machine learning, and data visualization.
+I am a PhD student in architecture in the Sustainable Design Group at the University of Cambridge, supervised by Professor Ronita Bardhan. My research focuses on thermal resilience, specifically how the globalisation-driven paradigm shift in the design of building facades and envelope materials affects the thermal performance of buildings during extreme heat, particularly in projected climates a century from now.Beyond the scale of individual buildings, I am also interested in the impact of the urban built-environment on human health, particularly the growing challenge of urban heat stress and extreme heat events. My work aims to map the complex interplay between Urbanisation, Informality, Inequality, Urban density, green infrastructure, and climate change, and their influence, especially in rapidly growing and unregulated cities like Nairobi, where unsustainable development increases vulnerability to extreme temperatures.
 
 ## Education Background
 
@@ -26,21 +25,17 @@ I hold a Master's in Architecture and Urban studies from the University of Cambr
 •	Bachelor of Architecture University of Nairobi, 2019
 •	Master of Philosophy in architecture and urban studies, University of Cambridge, 2024
 
-In addition, I worked as an architect for 5 years handling varied projects across East Africa.
+Additionally, I have worked as an architect for 5 years handling varied projects across East Africa.
 
 ## Technical Skills
 
-I am proficient in **R**, **Python**, **Java**, **JavaScript**, **SQL**, and **LaTeX**, with extensive experience in:
+I am proficient **Archicad**,**SketchUp**, **Autocad**, **Lumion**, *QGIS**, **R**, **Python**(intermediate), **Google Earth Engine**.
 
-- **Geospatial Tools**: ArcGIS, QGIS, Google Earth Engine
-- **Data Visualization**: D3.js, Observable, R Shiny
-- **Data Engineering**: Spark, Docker, AWS
-- **Machine Learning**: TensorFlow, Pytorch,scikit-learn
 
 ## Teaching & Mentoring
 
-Beyond research, I am passionate about teaching and mentoring. I have designed and delivered courses on topics ranging from biostatistics and programming to machine learning and sustainability. I believe in the power of education to drive innovation and empower the next generation of scientists and technologists.
+Beyond research, I am passionate about teaching and mentoring. I have designed and delivered courses on Fundamentals of architecture, and sustainability. I believe in the power of education to drive innovation and empower the next generation of scientists and technologists.
 
 ## Contact
 
-I am always looking for new opportunities to collaborate and learn from others, so please feel free to reach out if you would like to connect or check my academic CV ([🇬🇧](assets/documents/Andres_Zuñiga_Gonzalez_CV_en.pdf), [🇪🇸](assets/documents/Andres_Zuñiga_Gonzalez_CV_es.pdf)) and professional résumé ([🇬🇧](assets/documents/Andres_Zuñiga_Gonzalez_resume_en.pdf)).
+I am always looking for new opportunities to collaborate and learn from others, so please feel free to reach out if you would like to connect or check my academic CV ([🇬🇧](assets/documents/Kumary_CV_2024.pdf) , and professional résumé ([🇬🇧](assets/documents/Kumary_Resume.pdf)).
