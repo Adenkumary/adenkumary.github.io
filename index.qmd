@@ -31,7 +31,7 @@ about:
 
 ::: {#hero-heading}
 
-I am an architect and a PhD candidate at the University of Cambridge, with a research focus on building performance and the evolution of the urban built environment—particularly how these factors shape heat dynamics and, in turn, affect human health, comfort, and well-being. Much of my work involves using Google Earth Engine to investigate the role of green and blue infrastructure in Nairobi and their impact on urban thermal resilience. I am a strong advocate for the democratisation of urban analytics and am deeply committed to promoting open-source tools and methods that help overcome data scarcity, especially in cities across the Global South.
+I am an architect and a PhD candidate at the University of Cambridge, with a research focus on building performance and the evolution of the urban built environment, particularly how these factors shape heat dynamics and, in turn, affect human health, comfort, and well-being. Much of my work involves using Google Earth Engine to investigate the role of green and blue infrastructure in Nairobi and their impact on urban thermal resilience. I am a strong advocate for the democratisation of urban analytics and am deeply committed to promoting open-source tools and methods that help overcome data scarcity, especially in cities across the Global South.
 
 [Learn more about me &rarr;](/about.qmd)
 :::
