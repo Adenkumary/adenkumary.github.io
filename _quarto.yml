@@ -4,7 +4,7 @@ project:
 website:
   title: "Aden Kumary"
   description: "Architect & PhD Student @ University of Cambridge"
-  site-url: https://ancazugo.github.io/
+  site-url: https://adenkumary.github.io/
   back-to-top-navigation: true
   open-graph: true
   # google-analytics: G-EZYSPQ2878
@@ -17,6 +17,10 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
+      - href: Portfolio.qmd
+        text: Portfolio
+      - href: Photography.qmd
+        text: Photography
       # - href: talks-slides/index.qmd
       #   text: Talks
       # - href: services.qmd

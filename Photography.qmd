@@ -1,0 +1,19 @@
+---
+title: "Photography"
+comments: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: "grid"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 4
+  grid-columns: 2
+  image-placeholder: assets/images/home.png
+  fields: [image, date, title, categories, author, reading-time]
+  feed:
+    categories: [phd]
+---
+
+Welcome to my Collection of images! Here you'll the world through my lens. Feel free to read and leave comments.
