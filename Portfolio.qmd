@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Portfolio"
 comments: false
 listing:
   contents: posts
@@ -15,5 +15,3 @@ listing:
   feed:
     categories: [phd]
 ---
-
-Welcome to my blog! Here you'll find my weekly PhD notes and posts about my research, papers and books I've read or general discussions. Feel free to read and leave comments.
