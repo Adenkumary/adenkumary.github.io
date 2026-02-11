@@ -3,7 +3,7 @@ title: "About"
 subtitle: "PhD Student @ University of Cambridge"
 image: assets/images/about.jpg
 about:
-  template: broadside
+  template: jolla
 format: 
   html:
     page-layout: full
