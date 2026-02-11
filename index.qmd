@@ -18,20 +18,20 @@ about:
     #   - icon: instagram
     #     href: https://www.instagram.com/ancazugo/
       - icon: linkedin
-        href: https://www.linkedin.com/in/ancazugo/
+        href: https://www.linkedin.com/in/adenkumary/
       - text: "{{< iconify academicons orcid-square >}}"
-        href: https://orcid.org/0000-0003-3494-1135
+    #    href: https://orcid.org/0000-0003-3494-1135
       - text: "{{< iconify academicons researchgate-square >}}"
-        href: https://www.researchgate.net/profile/Andres-Zuniga-Gonzalez
+    #    href: https://www.researchgate.net/profile/Andres-Zuniga-Gonzalez
       - text: "{{< iconify academicons google-scholar-square >}}"
-        href: https://scholar.google.com/citations?hl=en&user=9guCE0wAAAAJ
+    #    href: https://scholar.google.com/citations?hl=en&user=9guCE0wAAAAJ
       - text: "{{< iconify majesticons mail-line >}}"
         href: mailto:adenkumary@gmail.com
 ---
 
 ::: {#hero-heading}
 
-I am PhD student at the University of Cambridge and enthusiast about technology and natural environments. Most of my days are spent playing with vectors and pixels trying to measure the effect of green and blue infrastructure in cities and how to make them more sustainable. Passionate about open source tools, geography, history and sports.
+I am an architect and a PhD candidate at the University of Cambridge, with a research focus on building performance and the evolution of the urban built environment—particularly how these factors shape heat dynamics and, in turn, affect human health, comfort, and well-being. Much of my work involves using Google Earth Engine to investigate the role of green and blue infrastructure in Nairobi and their impact on urban thermal resilience. I am a strong advocate for the democratisation of urban analytics and am deeply committed to promoting open-source tools and methods that help overcome data scarcity, especially in cities across the Global South.
 
 [Learn more about me &rarr;](/about.qmd)
 :::
