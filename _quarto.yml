@@ -24,7 +24,7 @@ website:
   page-footer: 
     center: 
       - icon: github
-        href: https://github.com/ancazugo
+        href: https://github.com/Adenkumary
       # - text: "{{< iconify fa7-brands bluesky >}}"
       #   href: https://bsky.app/profile/ancazugo.bsky.social
       # - icon: twitter
