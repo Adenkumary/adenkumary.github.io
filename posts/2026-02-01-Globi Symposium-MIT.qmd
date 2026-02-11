@@ -1,5 +1,5 @@
 ---
-title: Globi Symposium _ MIT 
+title: Globi Symposium_MIT 
 date: 2026-02-0102
 image: ../assets/images/projects/phd-blog/2026-02-01-week.gif
 categories:
