@@ -1,5 +1,5 @@
 ---
-title: Pending Projects 
+title: Projects inProgress and Future Plans
 date: 2026-02-11
 image: ../assets/images/projects/phd-blog/WIP.jpg
 categories:
@@ -15,7 +15,7 @@ In the first week of February, I attended the GloBI Symposium at MIT. It was a g
 I also listed the projects that I have done to a good level/partly completed. In this post, I will outline the projects that I am started and stopped halfway but I plan to work on in the future.
 
 1. **Project A**: McDonaldization of Nairobi City — Has It Really Happened?
-This project strives to empirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall urban heat stress burden in the city. The project leverages façade parsing and deep learning technique to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
+This project strives to egit smpirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall urban heat stress burden in the city. The project leverages façade parsing and deep learning technique to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
 
 2. **Project B**: The Role of Urban Form in Shaping the Thermal Environment of Nairobi City
 This project aims to investigate the relationship between urban form and the thermal environment in Nairobi City. It
