@@ -14,19 +14,25 @@ copyright:
 In the first week of February, I attended the GloBI Symposium at MIT. It was a great opportunity to learn about the latest research in global biodiversity informatics and to network with other researchers in the field. I presented my work on the Global Biodiversity Information Facility (GBIF) and received valuable feedback from the audience. I also had the chance to meet with some of the leading experts in the field and discuss potential collaborations for future projects. Overall, it was a very productive and inspiring experience.
 I also listed the projects that I have done to a good level/partly completed. In this post, I will outline the projects that I am started and stopped halfway but I plan to work on in the future.
 
-1. **Project A**: McDonaldization of Nairobi City — Has It Really Happened?
-This project strives to egit smpirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall urban heat stress burden in the city. The project leverages façade parsing and deep learning technique to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
+1. **Project A**: **McDonaldization of Nairobi City — Has It Really Happened?**
 
-2. **Project B**: The Role of Urban Form in Shaping the Thermal Environment of Nairobi City
+This project strives to empirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall urban heat stress burden in the city. The project leverages façade parsing and deep learning technique to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
+
+2. **Project B**: **The Role of Urban Form in Shaping the Thermal Environment of Nairobi City**
+
 This project aims to investigate the relationship between urban form and the thermal environment in Nairobi City. It
 seeks to understand how different urban forms, such as building density, street layout, and green spaces, influence the thermal environment and contribute to urban heat stress. The project will utilize a combination of remote sensing data, field measurements, and computational modeling to analyze the thermal environment in different parts of the city. The findings from this project will provide insights into how urban planning and design can be used to mitigate the impacts of urban heat stress in Nairobi City. Stay tuned for more updates on this project!
 
-3. **Project C**: Impact of WWR change on EUI and Urban Heat Stress
-This project focuses on understanding the impact of changes in the window-to-wall ratio (WWR) on the energy use intensity (EUI) of buildings and the overall urban heat stress in Nairobi City. The project will utilize building energy modeling techniques to simulate the energy performance of buildings with different WWR configurations and analyze how these changes affect the thermal environment in the city. The findings from this project will provide insights into how building design can be optimized to reduce energy consumption and mitigate urban heat stress. Keep an eye out for future updates on this project!
+3. **Project C**: **Impact of WWR change on EUI and Urban Heat Stress**
 
-4. **Project D**: The Role of Green Spaces in Mitigating Urban Heat Stress in Nairobi City
+This project focuses on understanding the impact of changes in the window-to-wall ratio (WWR) on the energy use intensity (EUI) of buildings and the overall urban heat stress in Nairobi City. Its a continuation of project A. The project will utilize building energy modeling techniques to simulate the energy performance of buildings with different WWR configurations and analyze how these changes affect the thermal environment in the city. The findings from this project will provide insights into how building design can be optimized to reduce energy consumption, adapt to future warmer climate, and mitigate urban heat stress. Keep an eye out for future updates on this project!
+
+4. **Project D**: **The Role of Green Spaces in Mitigating Urban Heat Stress in Nairobi City**
+
 This project aims to investigate the role of green spaces in mitigating urban heat stress in Nairobi City.
+
 It seeks to understand how different types of green spaces, such as parks, gardens, and street trees, contribute to cooling the urban environment and reducing heat stress. The project will utilize a combination of remote sensing data, field measurements, and computational modeling to analyze the cooling effects of green spaces in different parts of the city. The findings from this project will provide insights into how urban planning and design can incorporate green spaces to mitigate the impacts of urban heat stress in Nairobi City. Stay tuned for more updates on this project!    
 
 5. **Project E**: Assessment of thermal resilience performance for selected cases for current and future climates
+
 This project focuses on assessing the thermal resilience performance of selected cases in Nairobi City for current and future climate scenarios. The project will utilize building energy modeling techniques to simulate the thermal performance of buildings under different climate conditions and analyze how these conditions affect the thermal resilience of the buildings. The findings from this project will provide insights into how building design can be optimized to enhance thermal resilience and mitigate the impacts of climate change in Nairobi City. Keep an eye out for future updates on this project!
