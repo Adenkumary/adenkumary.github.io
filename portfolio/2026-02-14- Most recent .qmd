@@ -1,0 +1,14 @@
+---
+title: 2021-2023
+date: 2026-02-11
+image: ../assets/images/projects/phd-blog/WIP.jpg
+categories:
+- Work
+license: "CC BY"
+copyright:
+    holder: "Aden Kumary"
+    year: 2026
+---
+
+A collection of worked I worked on between 2021 and 2023 while I was and architect and Bowman associates. 
+see Portfolio ([🇬🇧](assets/documents/Kumary_CV_2024.pdf) 
