@@ -5,7 +5,7 @@ image: assets/images/home.jpg
 comments: false
 
 about:
-    template: solana 
+    template: jolla
     image-width: 30em
     image-shape: round
     links: 
