@@ -11,8 +11,8 @@ copyright:
 ---
 
 
-In the first week of February, I attended the GloBI Symposium at MIT. It was a great opportunity to learn about the latest research in global biodiversity informatics and to network with other researchers in the field. I presented my work on the Global Biodiversity Information Facility (GBIF) and received valuable feedback from the audience. I also had the chance to meet with some of the leading experts in the field and discuss potential collaborations for future projects. Overall, it was a very productive and inspiring experience.
-I also listed the projects that I have done to a good level/partly completed. In this post, I will outline the projects that I am started and stopped halfway but I plan to work on in the future.
+In the last week of January, I attended the GloBI Symposium at MIT. It was a great opportunity to learn about the latest research in global building inventory, energy concumption and to network with other researchers in the field. I presented my work and use case for GloBI. I also had the chance to meet with some of the leading experts in the field and discuss potential collaborations for future projects. Overall, it was a very productive and inspiring experience.
+In this post, I just want to outline the projects that I have started or intend to start and stopped halfway but I plan to work on in the future.
 
 1. **Project A**: **McDonaldization of Nairobi City — Has It Really Happened?**
 
