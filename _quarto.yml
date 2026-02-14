@@ -13,6 +13,8 @@ website:
     type: textbox
   navbar:  
     right:
+      - href: index.qmd
+        text: index
       - href: about.qmd
         text: About
       - href: blog.qmd
