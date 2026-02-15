@@ -11,4 +11,4 @@ copyright:
 ---
 
 A collection of worked I worked on between 2021 and 2023 while I was and architect and Bowman associates. 
-see Portfolio ([🇬🇧](assets/documents/Port_1.pdf))
+see Portfolio <iframe src="../assets/documents/Port_1.pdf" width="100%" height="1000px"></iframe>
