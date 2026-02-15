@@ -9,7 +9,7 @@ listing:
   sort-ui: true
   filter-ui: true
   page-size: 4
-  grid-columns: 1
+  grid-columns: 2
   image-placeholder: assets/images/home.png
   fields: [image, date, title, categories, author, reading-time]
   feed:
