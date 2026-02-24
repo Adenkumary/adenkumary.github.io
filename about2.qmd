@@ -1,31 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About | Architect & PhD Researcher</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+---
+title: "About"
+subtitle: "Architect | PhD Researcher"
+image: assets/images/7077.png
+format:
+  html:
+    page-layout: full
+    css: styles.css
+comments: false
+---
+
 <style>
-body {
-  margin: 0;
-  font-family: 'Inter', sans-serif;
-  background: #f7f9fc;
-  color: #1a1a1a;
-}
-
-.container {
-  max-width: 1100px;
-  margin: auto;
-  padding: 40px 20px;
-}
-
-/* HERO SECTION */
 .hero {
   display: grid;
   grid-template-columns: 280px 1fr;
   gap: 40px;
   align-items: center;
-  margin-bottom: 60px;
+  margin: 60px 0;
   animation: fadeIn 1s ease-in;
 }
 
@@ -51,9 +41,8 @@ body {
   margin-top: 20px;
 }
 
-/* CARD GRID */
 .section {
-  margin-bottom: 60px;
+  margin: 80px 0;
 }
 
 .section-title {
@@ -79,21 +68,10 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-6px);
   box-shadow: 0 12px 30px rgba(0,0,0,0.1);
 }
 
-.card i {
-  font-size: 1.5rem;
-  margin-bottom: 15px;
-  color: #4a6cf7;
-}
-
-.card h3 {
-  margin-top: 0;
-}
-
-/* CONTACT BUTTONS */
 .buttons a {
   display: inline-block;
   margin-right: 15px;
@@ -110,90 +88,5 @@ body {
   background: #2f4ed8;
 }
 
-/* ANIMATIONS */
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px);} 
-  to { opacity: 1; transform: translateY(0);} 
-}
-
-@media(max-width: 768px) {
-  .hero {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-}
-</style>
-</head>
-
-<body>
-<div class="container">
-
-  <!-- HERO -->
-  <div class="hero">
-    <img src="assets/images/7077.png" alt="Profile Photo" class="profile-img">
-    <div class="hero-text">
-      <h1>Your Name</h1>
-      <h2>Architect | PhD Researcher</h2>
-      <p>
-        Architect and PhD researcher exploring thermal resilience, urban heat stress, and climate-responsive design in rapidly urbanising regions. My work bridges computational tools, environmental performance, and sustainable architecture to address the growing challenges of extreme heat in African cities.
-      </p>
-      <div class="buttons">
-        <a href="assets/documents/Kumary_CV_2024.pdf"><i class="fa fa-file"></i> Academic CV</a>
-        <a href="assets/documents/Kumary_Resume.pdf"><i class="fa fa-briefcase"></i> Resume</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- RESEARCH -->
-  <div class="section">
-    <div class="section-title"><i class="fa fa-microscope"></i> Research Focus</div>
-    <div class="card">
-      <p>
-        My doctoral research investigates how globalised facade systems and building envelope materials affect thermal resilience under present and projected climate conditions. I analyse long-term climate scenarios, urban density, informality, and green infrastructure to understand vulnerability to extreme heat — particularly in cities such as Nairobi.
-      </p>
-    </div>
-  </div>
-
-  <!-- EDUCATION -->
-  <div class="section">
-    <div class="section-title"><i class="fa fa-graduation-cap"></i> Education</div>
-    <div class="cards">
-      <div class="card">
-        <h3>University of Cambridge</h3>
-        <p>PhD Architecture (Ongoing)<br>Master of Architecture & Urban Studies, 2024</p>
-      </div>
-      <div class="card">
-        <h3>University of Nairobi</h3>
-        <p>Bachelor of Architecture, 2019<br>Bachelor of Architectural Studies, 2017</p>
-      </div>
-    </div>
-  </div>
-
-  <!-- SKILLS -->
-  <div class="section">
-    <div class="section-title"><i class="fa fa-code"></i> Technical Skills</div>
-    <div class="cards">
-      <div class="card">
-        <h3>Design</h3>
-        <p>Archicad, SketchUp, AutoCAD, Lumion, Rhinoceros, InDesign</p>
-      </div>
-      <div class="card">
-        <h3>Computational & GIS</h3>
-        <p>QGIS, Python, R, Google Earth Engine</p>
-      </div>
-    </div>
-  </div>
-
-  <!-- TEACHING -->
-  <div class="section">
-    <div class="section-title"><i class="fa fa-chalkboard-teacher"></i> Teaching & Mentoring</div>
-    <div class="card">
-      <p>
-        I design and deliver courses in architecture fundamentals and sustainability-driven design thinking, mentoring emerging designers in integrating environmental performance into architectural practice.
-      </p>
-    </div>
-  </div>
-
-</div>
-</body>
-</html>
+:::
