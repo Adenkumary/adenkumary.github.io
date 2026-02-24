@@ -25,7 +25,7 @@ I was working on the second stage of the design, where I refined my ideas with g
 
 I started writing my conference paper titled “Rethinking Urban Morphology for Climate Action.” The research focuses on the double jeopardy posed by rapid urbanisation and climate change. Over the past two weeks, I have created a heatwave prediction map for Kenya and used WorldPop data to map Nairobi’s urbanisation over the last two decades. I also modified code to compute NDVI, LST, VHI, and UTFVI, although this is still a work in progress.
 
-![Maquette](../assets/images/projects/phd-blog/Conpaper.png)
+![Conference Paper Abstract](../assets/images/projects/phd-blog/Conpaper.png)
 
 I have begun drafting the manuscript by outlining the introduction, methodology,literature review and  mainly focusing on organizing my thoughts on paper. For the next three weeks, I will dedicate my full attention to this project. I am also excited to return to working on CFD simulations.
 
@@ -42,14 +42,18 @@ In the lecture, I will present part of my PhD work, demonstrating how platforms 
 
 I am excited and looking forward to the lecture.
 
-![Maquette](../assets/images/projects/phd-blog/Lecture1.png)
+![Lecture 1](../assets/images/projects/phd-blog/Lecture1.png)
 
 5. **ASCU Posters**:
 
  When I am not working on my PhD, I serve as the Communications Officer for African Society of Cambridge University. I mainly design posters for the society’s upcoming events. Below are some of the posters I have designed over the past few weeks and earlier.
 
- ![Maquette](../assets/images/projects/phd-blog/ASCU1.png)
- ![Maquette](../assets/images/projects/phd-blog/ASCU2.png)
- ![Maquette](../assets/images/projects/phd-blog/ASCU3.png)
- ![Maquette](../assets/images/projects/phd-blog/ASCU4.jpg)
- ![Maquette](../assets/images/projects/phd-blog/ASCU5.png)
+ ![Dec BoP](../assets/images/projects/phd-blog/ASCU1.png)  ![Welfare Brunch](../assets/images/projects/phd-blog/ASCU2.png)
+
+ ![Welfare Brunch](../assets/images/projects/phd-blog/ASCU2.png)
+
+ ![Debate Day](../assets/images/projects/phd-blog/ASCU3.png)
+
+ ![Afrobeat Dance](../assets/images/projects/phd-blog/ASCU4.jpg)
+
+ ![Valentine](../assets/images/projects/phd-blog/ASCU5.png)
