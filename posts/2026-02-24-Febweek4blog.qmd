@@ -1,7 +1,7 @@
 ---
 title: Lent week 5 updates
 date: 2026-02-24
-image: ../assets/images/projects/phd-blog/Nrbpop.png
+image: ../assets/images/projects/phd-blog/Nrbpop2.png
 categories:
 - phd
 license: "CC BY"
@@ -11,28 +11,43 @@ copyright:
 ---
 
 
-In the last week of January, I attended the GloBI Symposium at MIT. It was a great opportunity to learn about the latest research in global building inventory, energy concumption and to network with other researchers in the field. I presented my work and use case for GloBI. I also had the chance to meet with some of the leading experts in the field and discuss potential collaborations for future projects. Overall, it was a very productive and inspiring experience.
-In this post, I just want to outline the projects that I have started or intend to start and stopped halfway but I plan to work on in the future.
+Hey y’all! If I’ve been a bit quiet lately, it’s because this term is officially in high gear. The window between February 9th and 22nd was packed with everything from R-Studio troubleshooting to lecture prep. Grab a coffee—here’s a recap of what I’ve been up to.
 
-1. **Project A**: **McDonaldization of Nairobi City — Has It Really Happened?**
+1. **HAAD Project**
 
-This project strives to empirically quantify the extent to which globalization has impacted the Kenyan architectural landscape. It seeks to interrogate how the proliferation of Western architectural language has influenced the thermal performance of individual buildings and contributed to the overall urban heat stress burden in the city. The project leverages façade parsing and deep learning technique to extract features from Street View Imagery (SVI) and aims to compute changes in the window-to-wall ratio over time. This will lead to the generation of models that can be used for further urban building energy modeling analysis. Keep an eye out for the upcoming paper!
+ News time! Happy to officially mention that I was among the 10 finalists of a design competition titled “Heat Adaptive Architecture,” which was held sometime between July and November last year. The competition aimed to encourage adaptive thinking among architecture students for today’s climate challenges. The task was to envision an innovative building design that can adapt to extreme future weather events, particularly extreme heat and heatwaves.
 
-2. **Project B**: **The Role of Urban Form in Shaping the Thermal Environment of Nairobi City**
+I was working on the second stage of the design, where I refined my ideas with guidance from a mentor. My mentor suggested that I critically assess the materiality of the project. Unfortunately, I had to take a few steps back to redesign and model the project in a way that would make it 3D-printable, which consumed quite a bit of time. Thankfully, I was able to complete it.
 
-This project aims to investigate the relationship between urban form and the thermal environment in Nairobi City. It
-seeks to understand how different urban forms, such as building density, street layout, and green spaces, influence the thermal environment and contribute to urban heat stress. The project will utilize a combination of remote sensing data, field measurements, and computational modeling to analyze the thermal environment in different parts of the city. The findings from this project will provide insights into how urban planning and design can be used to mitigate the impacts of urban heat stress in Nairobi City. Stay tuned for more updates on this project!
+![Maquette](../assets/images/projects/phd-blog/A.PNG)
 
-3. **Project C**: **Impact of WWR change on EUI and Urban Heat Stress**
+2. **Conference Paper**
 
-This project focuses on understanding the impact of changes in the window-to-wall ratio (WWR) on the energy use intensity (EUI) of buildings and the overall urban heat stress in Nairobi City. Its a continuation of project A. The project will utilize building energy modeling techniques to simulate the energy performance of buildings with different WWR configurations and analyze how these changes affect the thermal environment in the city. The findings from this project will provide insights into how building design can be optimized to reduce energy consumption, adapt to future warmer climate, and mitigate urban heat stress. Keep an eye out for future updates on this project!
+I started writing my conference paper titled “Rethinking Urban Morphology for Climate Action.” The research focuses on the double jeopardy posed by rapid urbanisation and climate change. Over the past two weeks, I have created a heatwave prediction map for Kenya and used WorldPop data to map Nairobi’s urbanisation over the last two decades. I also modified code to compute NDVI, LST, VHI, and UTFVI, although this is still a work in progress.
 
-4. **Project D**: **The Role of Green Spaces in Mitigating Urban Heat Stress in Nairobi City**
+![Maquette](../assets/images/projects/phd-blog/A.PNG)
 
-This project aims to investigate the role of green spaces in mitigating urban heat stress in Nairobi City.
+I have begun drafting the manuscript by outlining the introduction, methodology,literature review and  mainly focusing on organizing my thoughts on paper. For the next three weeks, I will dedicate my full attention to this project. I am also excited to return to working on CFD simulations.
 
-It seeks to understand how different types of green spaces, such as parks, gardens, and street trees, contribute to cooling the urban environment and reducing heat stress. The project will utilize a combination of remote sensing data, field measurements, and computational modeling to analyze the cooling effects of green spaces in different parts of the city. The findings from this project will provide insights into how urban planning and design can incorporate green spaces to mitigate the impacts of urban heat stress in Nairobi City. Stay tuned for more updates on this project!    
+3. **Advanced Geospatial Analysis**
 
-5. **Project E**: Assessment of thermal resilience performance for selected cases for current and future climates
+In the evenings, I have been taking geospatial classes where we explore RStudio to analyse and visualise geospatial data. I have gained valuable insights into applying different R packages such as tmap, Leaflet, and tools for data manipulation.
+I am yet to sit down and thoroughly review my notes and projects. Once I do, I plan to write a separate blog post about the experience. Many thanks to Dr. Nanki Sidhu for organising the training materials and guiding us through the course.
 
-This project focuses on assessing the thermal resilience performance of selected cases in Nairobi City for current and future climate scenarios. The project will utilize building energy modeling techniques to simulate the thermal performance of buildings under different climate conditions and analyze how these conditions affect the thermal resilience of the buildings. The findings from this project will provide insights into how building design can be optimized to enhance thermal resilience and mitigate the impacts of climate change in Nairobi City. Keep an eye out for future updates on this project!
+4. **My First Lecture**
+
+This Lent term, I will be giving a lecture to second-year architecture students on the application of environmental tools in research. I have spent some time preparing for this, as the lecture is scheduled for early March, and I need to have the materials ready for sharing.
+
+In the lecture, I will present part of my PhD work, demonstrating how platforms such as Google Earth Engine (GEE) can be used for geospatial and remote sensing analysis, alongside computational simulation tools such as the Ladybug and Honeybee plugins for Grasshopper. These tools can help assess building performance and resilience under current and projected climate conditions.
+
+I am excited and looking forward to the lecture.
+
+5. **ASCU Posters**:
+
+ When I am not working on my PhD, I serve as the Communications Officer for African Society of Cambridge University. I mainly design posters for the society’s upcoming events. Below are some of the posters I have designed over the past few weeks and earlier.
+
+ ![Maquette](../assets/images/projects/phd-blog/ASCU1.PNG)
+ ![Maquette](../assets/images/projects/phd-blog/ASCU2.PNG)
+ ![Maquette](../assets/images/projects/phd-blog/ASCU3.PNG)
+ ![Maquette](../assets/images/projects/phd-blog/ASCU4.jpg)
+  ![Maquette](../assets/images/projects/phd-blog/ASCU5.PNG)
