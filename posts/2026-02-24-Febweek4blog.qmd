@@ -11,15 +11,15 @@ copyright:
 ---
 
 
-Hey y’all! If I’ve been a bit quiet lately, it’s because this term is officially in high gear. The window between February 9th and 22nd was packed with everything from R-Studio troubleshooting to lecture prep. Grab a coffee—here’s a recap of what I’ve been up to.
+Hey y’all! If I’ve been a bit quiet lately, it’s because this term is officially in high gear. The window between February 9th and 22nd was packed with everything from R-Studio troubleshooting to lecture prep. Grab a coffee, here’s a recap of what I’ve been up to in the last 2 weeks.
 
 1. **HAAD Project**
 
- News time! Happy to officially mention that I was among the 10 finalists of a design competition titled “Heat Adaptive Architecture,” which was held sometime between July and November last year. The competition aimed to encourage adaptive thinking among architecture students for today’s climate challenges. The task was to envision an innovative building design that can adapt to extreme future weather events, particularly extreme heat and heatwaves.
+ News time! Happy to officially mention that I was among the 10 finalists of a design competition titled “Heat Adaptive Architecture Design (HAAD),” which was held sometime between July and November last year(2025). The competition aimed to encourage adaptive thinking among architecture students for today’s climate challenges. The task was to envision an innovative building design that can adapt to extreme future weather events, particularly extreme heat and heatwaves.
 
-I was working on the second stage of the design, where I refined my ideas with guidance from a mentor. My mentor suggested that I critically assess the materiality of the project. Unfortunately, I had to take a few steps back to redesign and model the project in a way that would make it 3D-printable, which consumed quite a bit of time. Thankfully, I was able to complete it.
+The whole of last week, I was working on the second stage of the design, where I refined my ideas with guidance from a mentor. My mentor suggested that I critically assess the materiality of the project. Unfortunately, I had to take a few steps back to remodel the entire project in a way that would make it 3D-printable, which consumed quite a bit of time. Thankfully, I was able to complete it. Below is an Maquette of the project. I will put up a poster about it very soon.
 
-![Maquette](../assets/images/projects/phd-blog/A.png)
+![Maquette Heat Adaptive Architecture design](../assets/images/projects/phd-blog/A.png)
 
 2. **Conference Paper**
 
@@ -31,7 +31,7 @@ I have begun drafting the manuscript by outlining the introduction, methodology,
 
 3. **Advanced Geospatial Analysis**
 
-In the evenings, I have been taking geospatial classes where we explore RStudio to analyse and visualise geospatial data. I have gained valuable insights into applying different R packages such as tmap, Leaflet, and tools for data manipulation.
+In the evenings, I have been taking geospatial classes where we explored R-Studio to analyse and visualise geospatial data. I have gained valuable insights into applying different R packages such as tmap, Leaflet, and tools for data manipulation.
 I am yet to sit down and thoroughly review my notes and projects. Once I do, I plan to write a separate blog post about the experience. Many thanks to Dr. Nanki Sidhu for organising the training materials and guiding us through the course.
 
 4. **My First Lecture**
