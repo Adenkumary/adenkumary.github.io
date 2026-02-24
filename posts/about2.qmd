@@ -1,0 +1,62 @@
+---
+title: "About"
+subtitle: "Architect | PhD Researcher"
+image: assets/images/7077.png
+format:
+  html:
+    page-layout: full
+comments: false
+---
+
+## About Me
+
+I am an architect with a passion for computational and evidence-based design approaches to address pressing environmental challenges such as urban heat, building thermal performance, and climate resilience in the built environment.
+
+I am currently pursuing a PhD in the :contentReference[oaicite:0]{index=0} within the Sustainable Design Group, supervised by Professor Ronita Bardhan. My research focuses on assessing the thermal resilience of buildings under present and projected climate scenarios, with particular attention to African cities.
+
+My work explores how globalisation-driven transformations in facade design and building envelope materials influence thermal performance during extreme heat events, especially under long-term climate projections.
+
+Beyond individual buildings, I am interested in the relationship between urban form and human health, particularly the growing risks of urban heat stress in rapidly urbanising regions. My research examines how urbanisation, informality, socio-economic inequality, density patterns, green infrastructure, and climate change interact to shape thermal vulnerability in cities such as Nairobi.
+
+---
+
+## Education
+
+- Master of Architecture and Urban Studies — :contentReference[oaicite:1]{index=1} (2024)  
+- Bachelor of Architecture — University of Nairobi (2019)  
+- Bachelor of Architectural Studies — University of Nairobi (2017)
+
+---
+
+## Professional Experience
+
+I have worked as a practicing architect for five years, contributing to diverse projects across East Africa, spanning architecture, design development, and sustainability-informed planning.
+
+Explore selected projects on my Behance portfolio:  
+👉 https://www.behance.net/Adenkumary
+
+---
+
+## Technical Skills
+
+**Design & Visualization:** Archicad, SketchUp, AutoCAD, Lumion, Rhinoceros, InDesign  
+**Geospatial & Computational Tools:** QGIS, Python (intermediate), R, Google Earth Engine
+
+---
+
+## Teaching & Mentoring
+
+I am passionate about architectural education and knowledge sharing. I have designed and delivered courses on fundamentals of architecture and sustainability-focused design thinking.
+
+---
+
+## Contact & CV
+
+I am open to collaboration, research partnerships, and professional opportunities.
+
+- 📄 Academic CV (UK): [View CV](assets/documents/Kumary_CV_2024.pdf)  
+- 📄 Professional Résumé (UK): [View Resume](assets/documents/Kumary_Resume.pdf)
+
+Feel free to connect if you would like to discuss research, design, or collaboration.
+
+---
