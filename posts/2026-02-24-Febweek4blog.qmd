@@ -57,3 +57,46 @@ I am excited and looking forward to the lecture.
  ![Afrobeat Dance](../assets/images/projects/phd-blog/ASCU4.jpg)
 
  ![Valentine](../assets/images/projects/phd-blog/ASCU5.png)
+
+
+ <h2>ASCU Posters</h2>
+
+<p>
+When I am not working on my PhD, I serve as the Communications Officer for African Society of Cambridge University. 
+I mainly design posters for the society’s upcoming events. Below are some of the posters I have designed.
+</p>
+
+<div class="poster-grid">
+
+  <img src="../assets/images/projects/phd-blog/ASCU1.png" alt="Dec BoP poster">
+
+  <img src="../assets/images/projects/phd-blog/ASCU2.png" alt="Welfare brunch poster">
+
+  <img src="../assets/images/projects/phd-blog/ASCU3.png" alt="Debate day poster">
+
+  <img src="../assets/images/projects/phd-blog/ASCU4.jpg" alt="Afrobeat dance poster">
+
+  <img src="../assets/images/projects/phd-blog/ASCU5.png" alt="Valentine poster">
+
+</div>
+
+<style>
+.poster-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.poster-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+.poster-grid img:hover {
+  transform: scale(1.03);
+}
+</style>
