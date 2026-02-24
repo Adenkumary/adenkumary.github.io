@@ -56,13 +56,13 @@ I mainly design posters for the society’s upcoming events. Below are some of t
 
   <img src="../assets/images/projects/phd-blog/ASCU1.png" alt="Dec BoP poster">
 
-  <img src="../assets/images/projects/phd-blog/ASCU2.png" alt="Welfare brunch poster">
-
   <img src="../assets/images/projects/phd-blog/ASCU3.png" alt="Debate day poster">
 
   <img src="../assets/images/projects/phd-blog/ASCU4.jpg" alt="Afrobeat dance poster">
 
   <img src="../assets/images/projects/phd-blog/ASCU5.png" alt="Valentine poster">
+
+  <img src="../assets/images/projects/phd-blog/ASCU2.png" alt="Welfare brunch poster">
 
 </div>
 
