@@ -1,62 +1,77 @@
----
-title: "About"
-subtitle: "Architect | PhD Researcher"
-image: assets/images/7077.png
-format:
-  html:
-    page-layout: full
-comments: false
----
+<!DOCTYPE html>
+}
+</style>
+</head>
 
-## About Me
+<body>
+<div class="container">
 
-I am an architect with a passion for computational and evidence-based design approaches to address pressing environmental challenges such as urban heat, building thermal performance, and climate resilience in the built environment.
+  <!-- HERO -->
+  <div class="hero">
+    <img src="assets/images/7077.png" alt="Profile Photo" class="profile-img">
+    <div class="hero-text">
+      <h1>Your Name</h1>
+      <h2>Architect | PhD Researcher</h2>
+      <p>
+        Architect and PhD researcher exploring thermal resilience, urban heat stress, and climate-responsive design in rapidly urbanising regions. My work bridges computational tools, environmental performance, and sustainable architecture to address the growing challenges of extreme heat in African cities.
+      </p>
+      <div class="buttons">
+        <a href="assets/documents/Kumary_CV_2024.pdf"><i class="fa fa-file"></i> Academic CV</a>
+        <a href="assets/documents/Kumary_Resume.pdf"><i class="fa fa-briefcase"></i> Resume</a>
+      </div>
+    </div>
+  </div>
 
-I am currently pursuing a PhD in the :contentReference[oaicite:0]{index=0} within the Sustainable Design Group, supervised by Professor Ronita Bardhan. My research focuses on assessing the thermal resilience of buildings under present and projected climate scenarios, with particular attention to African cities.
+  <!-- RESEARCH -->
+  <div class="section">
+    <div class="section-title"><i class="fa fa-microscope"></i> Research Focus</div>
+    <div class="card">
+      <p>
+        My doctoral research investigates how globalised facade systems and building envelope materials affect thermal resilience under present and projected climate conditions. I analyse long-term climate scenarios, urban density, informality, and green infrastructure to understand vulnerability to extreme heat — particularly in cities such as Nairobi.
+      </p>
+    </div>
+  </div>
 
-My work explores how globalisation-driven transformations in facade design and building envelope materials influence thermal performance during extreme heat events, especially under long-term climate projections.
+  <!-- EDUCATION -->
+  <div class="section">
+    <div class="section-title"><i class="fa fa-graduation-cap"></i> Education</div>
+    <div class="cards">
+      <div class="card">
+        <h3>University of Cambridge</h3>
+        <p>PhD Architecture (Ongoing)<br>Master of Architecture & Urban Studies, 2024</p>
+      </div>
+      <div class="card">
+        <h3>University of Nairobi</h3>
+        <p>Bachelor of Architecture, 2019<br>Bachelor of Architectural Studies, 2017</p>
+      </div>
+    </div>
+  </div>
 
-Beyond individual buildings, I am interested in the relationship between urban form and human health, particularly the growing risks of urban heat stress in rapidly urbanising regions. My research examines how urbanisation, informality, socio-economic inequality, density patterns, green infrastructure, and climate change interact to shape thermal vulnerability in cities such as Nairobi.
+  <!-- SKILLS -->
+  <div class="section">
+    <div class="section-title"><i class="fa fa-code"></i> Technical Skills</div>
+    <div class="cards">
+      <div class="card">
+        <h3>Design</h3>
+        <p>Archicad, SketchUp, AutoCAD, Lumion, Rhinoceros, InDesign</p>
+      </div>
+      <div class="card">
+        <h3>Computational & GIS</h3>
+        <p>QGIS, Python, R, Google Earth Engine</p>
+      </div>
+    </div>
+  </div>
 
----
+  <!-- TEACHING -->
+  <div class="section">
+    <div class="section-title"><i class="fa fa-chalkboard-teacher"></i> Teaching & Mentoring</div>
+    <div class="card">
+      <p>
+        I design and deliver courses in architecture fundamentals and sustainability-driven design thinking, mentoring emerging designers in integrating environmental performance into architectural practice.
+      </p>
+    </div>
+  </div>
 
-## Education
-
-- Master of Architecture and Urban Studies — :contentReference[oaicite:1]{index=1} (2024)  
-- Bachelor of Architecture — University of Nairobi (2019)  
-- Bachelor of Architectural Studies — University of Nairobi (2017)
-
----
-
-## Professional Experience
-
-I have worked as a practicing architect for five years, contributing to diverse projects across East Africa, spanning architecture, design development, and sustainability-informed planning.
-
-Explore selected projects on my Behance portfolio:  
-👉 https://www.behance.net/Adenkumary
-
----
-
-## Technical Skills
-
-**Design & Visualization:** Archicad, SketchUp, AutoCAD, Lumion, Rhinoceros, InDesign  
-**Geospatial & Computational Tools:** QGIS, Python (intermediate), R, Google Earth Engine
-
----
-
-## Teaching & Mentoring
-
-I am passionate about architectural education and knowledge sharing. I have designed and delivered courses on fundamentals of architecture and sustainability-focused design thinking.
-
----
-
-## Contact & CV
-
-I am open to collaboration, research partnerships, and professional opportunities.
-
-- 📄 Academic CV (UK): [View CV](assets/documents/Kumary_CV_2024.pdf)  
-- 📄 Professional Résumé (UK): [View Resume](assets/documents/Kumary_Resume.pdf)
-
-Feel free to connect if you would like to discuss research, design, or collaboration.
-
----
+</div>
+</body>
+</html>
