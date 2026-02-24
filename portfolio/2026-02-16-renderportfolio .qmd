@@ -1,7 +1,7 @@
 ---
 title: 2018-2019
 date: 2026-01-16
-image: ../assets/images/projects/phd-blog/cover2.jpg
+image: ../assets/images/projects/phd-blog/cover3.jpg
 categories:
 - Work
 license: "CC BY"
