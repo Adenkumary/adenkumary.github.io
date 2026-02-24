@@ -1,166 +1,33 @@
+
 ---
-title: 2018–2019 Architecture Portfolio
-date: 2026-01-16
+title: 2014-2019
+date: 2026-01-15
 image: ../assets/images/projects/phd-blog/cover3.jpg
 categories:
-  - Work
-description: Architecture student portfolio showcasing design projects completed between 2017 and 2019 at the University of Nairobi.
+- Work
+license: "CC BY"
+copyright:
+    holder: "Aden Kumary"
+    year: 2026
+---
+
+<p>
+ description: Architecture student portfolio showcasing design projects completed between 2017 and 2019 at the University of Nairobi.
 keywords: architecture portfolio, student architecture work, design projects, university of nairobi, 2017 2019 portfolio
 license: CC BY
 copyright:
   holder: Aden Kumary
-  year: 2026
----
+  year: 2026<br>
+<a href="../assets/documents/Port_3.pdf" target="_blank">Open portfolio in a new tab</a>
+</p>
 
-<div class="portfolio-hero">
-  <h1>{{ page.title }}</h1>
+<hr style="border:none; border-top:1px solid #ccc; margin:30px 0;">
 
-  <p class="portfolio-description">
-    {{ page.description }}
-    <br><br>
-    <a class="portfolio-link" href="../assets/documents/Port_3.pdf" target="_blank">
-      Open full portfolio in a new tab
-    </a>
-  </p>
-</div>
+<iframe 
+  src="../assets/documents/Port_1.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+  width="100%" 
+  height="500" 
+  style="border:none;">
+</iframe>
 
-<hr class="divider">
-
-<!-- PDF Preview Section -->
-<section class="portfolio-preview">
-  <h2>Portfolio Preview</h2>
-
-  <div class="responsive-iframe">
-    <iframe
-      title="Architecture Portfolio Preview"
-      src="../assets/documents/Port_1.pdf#toolbar=0&navpanes=0&scrollbar=0"
-    ></iframe>
-  </div>
-</section>
-
-<hr class="divider">
-
-<!-- Project Showcase Grid -->
-<section class="portfolio-grid-section">
-  <h2>Selected Projects</h2>
-
-  <div class="portfolio-grid">
-
-    <!-- Project Card -->
-    <div class="portfolio-card">
-      <img src="../assets/images/projects/phd-blog/cover3.jpg" alt="Design project preview">
-      <div class="card-content">
-        <h3>Design Exploration</h3>
-        <p>Urban and architectural conceptual development work.</p>
-      </div>
-    </div>
-
-    <div class="portfolio-card">
-      <img src="../assets/images/projects/phd-blog/cover3.jpg" alt="Architecture project preview">
-      <div class="card-content">
-        <h3>Studio Project Work</h3>
-        <p>Academic architecture studio submissions and iterations.</p>
-      </div>
-    </div>
-
-    <div class="portfolio-card">
-      <img src="../assets/images/projects/phd-blog/cover3.jpg" alt="Architecture portfolio project preview">
-      <div class="card-content">
-        <h3>Portfolio Development</h3>
-        <p>Compilation of selected student architectural designs.</p>
-      </div>
-    </div>
-
-  </div>
-</section>
-
-<style>
-.portfolio-hero {
-  max-width: 900px;
-  margin: auto;
-  text-align: center;
-  padding: 40px 20px;
-}
-
-.portfolio-description {
-  font-size: 1.1rem;
-  line-height: 1.7;
-  color: #555;
-}
-
-.portfolio-link {
-  display: inline-block;
-  margin-top: 12px;
-  font-weight: 600;
-  text-decoration: underline;
-}
-
-.divider {
-  border: none;
-  border-top: 1px solid #ddd;
-  margin: 50px 0;
-}
-
-/* Responsive iframe */
-.responsive-iframe {
-  position: relative;
-  padding-bottom: 75%;
-  height: 0;
-  overflow: hidden;
-}
-
-.responsive-iframe iframe {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  border: none;
-  top: 0;
-  left: 0;
-}
-
-/* Grid Layout */
-.portfolio-grid-section {
-  padding: 40px 0;
-  text-align: center;
-}
-
-.portfolio-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 30px;
-  padding: 30px 0;
-}
-
-.portfolio-card {
-  border-radius: 24px;
-  overflow: hidden;
-  box-shadow: 0 6px 25px rgba(0,0,0,0.08);
-  background: #fff;
-  transition: transform 0.3s ease;
-}
-
-.portfolio-card:hover {
-  transform: translateY(-6px);
-}
-
-.portfolio-card img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-}
-
-.card-content {
-  padding: 20px;
-}
-
-.card-content h3 {
-  margin-bottom: 10px;
-  font-size: 1.2rem;
-}
-
-.card-content p {
-  color: #666;
-  font-size: 0.95rem;
-  line-height: 1.6;
-}
-</style>
+<hr style="border:none; border-top:1px solid #ccc; margin:30px 0;">
