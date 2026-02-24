@@ -1,0 +1,29 @@
+---
+title: 2014-2019
+date: 2026-01-15
+image: ../assets/images/projects/phd-blog/cover3.jpg
+categories:
+- Work
+license: "CC BY"
+copyright:
+    holder: "Aden Kumary"
+    year: 2026
+---
+
+<p>
+This is a collection of projects I worked on between 2018 and 2019 while I was a student architect at the University of Nairobi.
+
+<br>
+<a href="../assets/documents/Port_3.pdf" target="_blank">Open portfolio in a new tab</a>
+</p>
+
+<hr style="border:none; border-top:1px solid #ccc; margin:30px 0;">
+
+<iframe 
+  src="../assets/documents/Port_3.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+  width="100%" 
+  height="500" 
+  style="border:none;">
+</iframe>
+
+<hr style="border:none; border-top:1px solid #ccc; margin:30px 0;">
