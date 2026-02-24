@@ -1,8 +1,7 @@
-
 ---
-title: 2014-2019
-date: 2026-01-15
-image: ../assets/images/projects/phd-blog/cover3.jpg
+title: 2018-2019
+date: 2026-01-16
+image: ../assets/images/projects/phd-blog/cover4.jpg
 categories:
 - Work
 license: "CC BY"
@@ -12,12 +11,9 @@ copyright:
 ---
 
 <p>
- description: Architecture student portfolio showcasing design projects completed between 2017 and 2019 at the University of Nairobi.
-keywords: architecture portfolio, student architecture work, design projects, university of nairobi, 2017 2019 portfolio
-license: CC BY
-copyright:
-  holder: Aden Kumary
-  year: 2026<br>
+This is a collection of projects I worked on between 2018 and 2019 while I was a student architect at the University of Nairobi.
+
+<br>
 <a href="../assets/documents/Port_3.pdf" target="_blank">Open portfolio in a new tab</a>
 </p>
 
