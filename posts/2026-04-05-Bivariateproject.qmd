@@ -42,6 +42,7 @@ The process involves blending geospatial analysis with creative data visualizati
 - **Masking**  
   Using `geopandas`, global datasets were clipped to the boundaries of Africa and Kenya for a clean, focused visual output.
   
+![Bivariate Map for Kenya](../assets/images/projects/phd-blog/03-bivariate_africa.png)
 ![Bivariate Map for Kenya](../assets/images/projects/phd-blog/03-bivariate_kenya.png)
 
 
