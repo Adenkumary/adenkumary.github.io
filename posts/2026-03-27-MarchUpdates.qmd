@@ -1,12 +1,13 @@
 ---
 title: Two Weeks, Two Conferences, and a Deeper Dive into Nairobi’s Urban Heat
-date: 2026-03-2427
+date: 2026-03-27
 image: ../assets/images/projects/phd-blog/IMG_6484.heic
 categories:
 - phd
 license: "CC BY"
 copyright:
     holder: "Aden Kumary"
+    Month:  March
     year: 2026
 ---
 
@@ -33,7 +34,7 @@ From there, I moved on to analysing the Urban Heat Island (UHI) effect across se
 
 The next step (already underway) is to statistically explore the relationship between UHI, tree equity, and built-up density. Alongside this, I’ve been developing heat risk maps for Nairobi’s wards, as well as corresponding tree equity maps. (Full disclosure: I actually completed this part earlier—I just never got around to publishing this write-up.)
 
-I’m also working on what I’m calling ****. This takes a slightly different angle: instead of just measuring where green space exists, it asks how accessible it is. By mapping all public parks and calculating walking times to reach them, I hope to capture how easily residents can access open, green spaces in their daily lives.
+I’m also working on what I’m calling **a Greeness Index**. This takes a slightly different angle: instead of just measuring where green space exists, it asks how accessible it is. By mapping all public parks and calculating walking times to reach them, I hope to capture how easily residents can access open, green spaces in their daily lives.
 
 
 **Why This Matters**
@@ -48,6 +49,8 @@ Urban Heat Island hotspots, for instance, are not just warmer—they are more vu
 What’s become increasingly clear is that heat and greenness are not evenly distributed. The maps are clear heat is not a physical phenomenon but a social one too.
 
 Hotter areas tend to coincide with informal settlements and socioeconomically deprived neighbourhoods. These same areas often have less tree canopy and poorer access to public green spaces. In other words, the people most exposed to extreme heat are also those with the fewest natural buffers against it.
+
+![Heat distribution in Nairobi](../assets/images/projects/phd-blog/03-nairobi_tei_constituency_choropleth.png)
 
 
 **The Scale of Change**

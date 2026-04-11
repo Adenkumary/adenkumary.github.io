@@ -1,0 +1,46 @@
+---
+title: Mapping Human Footprints: Kenya’s Population Density
+date: 2026-04-09
+image: ../assets/images/projects/phd-blog/03-Kenya_Pop_Density_v2.png
+categories:
+- phd
+license: "CC BY"
+copyright:
+    holder: "Aden Kumary"
+    Month: April
+    year: 2026
+---
+
+If you’ve ever looked at a satellite image of Kenya at night, you’ve seen the clusters of light that define where people live, work, and gather. For my second deep-dive into geospatial visualization, I wanted to turn that "glow" into data. Using population datasets from the Joint Research Centre (JRC), I mapped out the distribution of Kenya’s population to see exactly where the country’s heart beats the loudest.
+
+
+**The Build: How the Map Came to Life**
+Creating a clean, publication-ready density map requires more than just plotting points; it’s about managing scale and contrast. Here’s a quick breakdown of the workflow I used in Python:
+
+**Handling the Big Data:** I started with high-resolution raster data (GeoTIFF). Because these files can be massive, I used rasterio to mask and crop the data specifically to Kenya's national boundaries.
+
+**Coordinate Alignment:** To ensure the population data lined up perfectly with the administrative borders, I reprojected the datasets to a consistent CRS (Coordinate Reference System).
+
+**Color Scaling with Logarithms:** Population density varies wildly—from nearly empty arid lands to thousands of people per square kilometer in Nairobi. I used a Logarithmic Scale for the colors. This prevents the high-density cities from "washing out" the rest of the map, allowing us to see variations in rural areas too.
+
+**Styling for Impact:** I chose a dark theme with a "magma" or "inferno" style palette. The bright yellows represent high-density hubs, while deep purples and blacks represent the vast, sparsely populated regions.
+
+
+**Visualizing the Results**
+
+The resulting image is a striking look at the "human geography" of Kenya. Against a deep black background, the country’s borders are outlined by the intensity of its inhabitants.
+
+The Hubs: You can immediately spot Nairobi and Mombasa as brilliant beacons of yellow.
+
+The Highlands & Lake Victoria: A thick, bright "crescent" of activity stretches from the central highlands through the Rift Valley towards the Lake Victoria basin (Kisumu), showing the high agricultural and urban density in these fertile regions.
+
+The Arid North: In contrast, the northern and eastern parts of the country appear as vast, dark expanses, punctuated only by small, isolated dots of light representing key towns like Lodwar or Garissa.
+
+This map doesn't just show where people are; it tells a story of climate, history, and infrastructure. It was a rewarding challenge to transform raw numbers into a visual narrative of a nation.
+
+Technical Stack: Python, Geopandas, Rasterio, Matplotlib.
+Data: European Commission JRC (GHSL) & FAO (GAUL).
+code: [Visit my GitHub](https://github.com/Adenkumary/Kenya-Population-Density-GHSL){target="_blank"}
+
+
+

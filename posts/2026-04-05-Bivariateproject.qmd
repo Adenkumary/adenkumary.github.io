@@ -1,0 +1,43 @@
+---
+title: Mapping the Interplay: Temperature vs. Precipitation in Africa
+date: 2026-04-05
+image: ../assets/images/projects/phd-blog/03-bivariate_africa.png
+categories:
+- phd
+license: "CC BY"
+copyright:
+    holder: "Aden Kumary"
+    Month: April
+    year: 2026
+---
+
+Visualizing climate data usually means looking at two separate maps: one for how hot it is and another for how much it rains. But the real story lies in how these two variables dance together. As part of my recent upskilling journey, I used TerraClimate 2025 data to create Bivariate Choropleth Maps for Africa and Kenya, offering a unique perspective on regional climate patterns.
+
+
+**Why Bivariate?**
+
+A standard map tells you "it’s dry here." A bivariate map tells you "it’s dry and scorching" versus "it’s dry and cool." By using a two-dimensional color matrix, we can visualize the relationship between Maximum Temperature ($T_{max}$) and Precipitation ($PPT$) simultaneously.
+
+
+**The Workflow: From NetCDF to Visuals**
+
+The process involves blending geospatial analysis with creative data visualization. Here’s a high-level look at the technical pipeline:
+    Data Acquisition: I utilized NetCDF files for temperature and precipitation, processed via xarray and rioxarray for efficient spatial handling.
+    Smoothing & Resampling: To reduce noise and ensure the maps were readable, I applied a Gaussian filter for subtle smoothing.
+    Quantile Classification: I broke both datasets into 3-class terciles (low, medium, high). This ensures the colors represent relative values specific to the region's climate.
+    The Color Matrix: I mapped these classes to a $3 x3$ grid.
+        Low/Low areas (Cool & Dry) might appear pale.
+        High/High areas (Hot & Wet) appear deep and saturated.
+        High Temp/Low PPT areas (Hot & Dry) stand out in distinct contrasting tones.
+    *Masking:* Using geopandas, I clipped the global data to the specific boundaries of the African continent and the Kenyan border for a clean finish.
+
+![Bivariate Map for Kenya](../assets/images/projects/phd-blog/03-bivariate_kenya.png)
+
+
+**Key Takeaways**
+Looking at the results, the contrast is striking. In the Africa map, you can clearly see the vast "Hot & Dry" expanse of the Sahara compared to the "Hot & Wet" tropical belt of the Congo Basin.
+
+Switching to the Kenya map reveals even more granular detail—highlighting how topography influences these variables, from the humid coastal regions to the arid northern landscapes. This exercise wasn't just about coding; it was about finding a more nuanced way to tell the story of our changing climate.
+
+Data Credit: TerraClimate 2025 | Tools: Python (Matplotlib, Xarray, Geopandas)
+Tutorial:    Milan Janosov tutorial
