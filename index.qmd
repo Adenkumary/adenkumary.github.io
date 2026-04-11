@@ -1,7 +1,7 @@
 ---
 title: "Aden Kumary"
 subtitle: "Architect & PhD Student @ University of Cambridge"
-image: assets/images/home.jpg
+image: assets/images/Saitabau-HD.jpg
 comments: false
 
 about:
