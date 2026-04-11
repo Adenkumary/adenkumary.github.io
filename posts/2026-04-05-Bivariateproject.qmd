@@ -3,7 +3,7 @@ title: Mapping the Interplay; Temperature vs Precipitation in Africa
 date: 2026-04-05
 image: ../assets/images/projects/phd-blog/03-bivariate_africa.png
 categories:
-- phd
+- project
 license: "CC BY"
 copyright:
     holder: "Aden Kumary"
@@ -33,7 +33,7 @@ The process involves blending geospatial analysis with creative data visualizati
         Low/Low areas (Cool & Dry) might appear pale.
 
         High/High areas (Hot & Wet) appear deep and saturated.
-        
+
         High Temp/Low PPT areas (Hot & Dry) stand out in distinct contrasting tones.
     
     **Masking:** Using geopandas, I clipped the global data to the specific boundaries of the African continent and the Kenyan border for a clean finish.
