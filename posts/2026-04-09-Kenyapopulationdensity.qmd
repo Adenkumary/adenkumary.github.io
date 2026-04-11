@@ -3,7 +3,7 @@ title: Mapping Human Footprints; Kenya’s Population Density
 date: 2026-04-09
 image: ../assets/images/projects/phd-blog/03-Kenya_Pop_Density_v2.png
 categories:
-- project
+- Project
 license: "CC BY"
 copyright:
     holder: "Aden Kumary"
