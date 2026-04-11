@@ -24,7 +24,6 @@ A standard map tells you "it’s dry here." A bivariate map tells you "it’s dr
 The process involves blending geospatial analysis with creative data visualization. Here’s a high-level look at the technical pipeline:
     
    ### Technical Pipeline
-
 - **Data Acquisition**  
   Temperature and precipitation data were sourced from NetCDF files and processed using `xarray` and `rioxarray` for efficient geospatial handling.
 
@@ -42,7 +41,7 @@ The process involves blending geospatial analysis with creative data visualizati
 
 - **Masking**  
   Using `geopandas`, global datasets were clipped to the boundaries of Africa and Kenya for a clean, focused visual output.
-
+  
 ![Bivariate Map for Kenya](../assets/images/projects/phd-blog/03-bivariate_kenya.png)
 
 
