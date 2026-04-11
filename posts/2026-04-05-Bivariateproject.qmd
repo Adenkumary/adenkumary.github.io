@@ -39,4 +39,5 @@ Looking at the results, the contrast is striking. In the Africa map, you can cle
 Switching to the Kenya map reveals even more granular detail—highlighting how topography influences these variables, from the humid coastal regions to the arid northern landscapes. This exercise wasn't just about coding; it was about finding a more nuanced way to tell the story of our changing climate.
 
 Data Credit: TerraClimate 2025 | Tools: Python (Matplotlib, Xarray, Geopandas)
+
 Tutorial:    Milan Janosov tutorial

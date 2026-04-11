@@ -39,6 +39,7 @@ This map doesn't just show where people are; it tells a story of climate, histor
 
 Technical Stack: Python, Geopandas, Rasterio, Matplotlib.
 Data: European Commission JRC (GHSL) & FAO (GAUL).
+
 code: [Visit my GitHub](https://github.com/Adenkumary/Kenya-Population-Density-GHSL){target="_blank"}
 
 
