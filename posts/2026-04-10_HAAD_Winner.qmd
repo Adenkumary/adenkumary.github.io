@@ -11,7 +11,7 @@ copyright:
     year: 2026
 ---
 
-Remember this [HAAD](https://adenkumary.github.io/posts/2026-02-24-Febweek4blog.html){target="_blank"}? The [Heat adaptive architecture design competition] (https://preparecenter.org/site/heat-adaptive-architecture-design-competition/){target="_blank"}?
+Remember this [HAAD](https://adenkumary.github.io/posts/2026-02-24-Febweek4blog.html){target="_blank"}? The [Heat adaptive architecture design competition](https://preparecenter.org/site/heat-adaptive-architecture-design-competition/){target="_blank"}?
 
 well I have exciting news for y'all. **I Won** yes you read that right, I won an international design competition. I am incredibly happy to announce that my design submission was considered as one of the winning entry in the heat adaptive architecture compeition.
 my design solution envisions a learning institution designed for a warmer future in Kenya, where schools are often under-resourced and heatwaves are expected to increase in frequency, intensity, and severity. It draws on local design knowledge, materials, and technologies to create adaptive, climate-responsive schools. At a time when African countries must take proactive steps to address heat risks and climate adaptation, this approach offers a practical, affordable and sustainable path forward.

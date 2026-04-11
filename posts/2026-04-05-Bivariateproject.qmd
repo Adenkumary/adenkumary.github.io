@@ -23,20 +23,25 @@ A standard map tells you "it’s dry here." A bivariate map tells you "it’s dr
 
 The process involves blending geospatial analysis with creative data visualization. Here’s a high-level look at the technical pipeline:
     
-    **Data Acquisition:** I utilized NetCDF files for temperature and precipitation, processed via xarray and rioxarray for efficient spatial handling.
+    **Data Acquisition:**
+    I utilized NetCDF files for temperature and precipitation, processed via xarray and rioxarray for efficient spatial handling.
     
-    **Smoothing & Resampling:** To reduce noise and ensure the maps were readable, I applied a Gaussian filter for subtle smoothing.
+    **Smoothing & Resampling**:
+    To reduce noise and ensure the maps were readable, I applied a Gaussian filter for subtle smoothing.
     
-    **Quantile Classification:** I broke both datasets into 3-class terciles (low, medium, high). This ensures the colors represent relative values specific to the region's climate.
+    **Quantile Classification:** 
+    I broke both datasets into 3-class terciles (low, medium, high). This ensures the colors represent relative values specific to the region's climate.
     
-    **The Color Matrix:** I mapped these classes to a $3 x 3$ grid.
+    **The Color Matrix:**
+    I mapped these classes to a $3 x 3$ grid.
         Low/Low areas (Cool & Dry) might appear pale.
 
         High/High areas (Hot & Wet) appear deep and saturated.
 
         High Temp/Low PPT areas (Hot & Dry) stand out in distinct contrasting tones.
     
-    **Masking:** Using geopandas, I clipped the global data to the specific boundaries of the African continent and the Kenyan border for a clean finish.
+    **Masking:** 
+    Using geopandas, I clipped the global data to the specific boundaries of the African continent and the Kenyan border for a clean finish.
 
 ![Bivariate Map for Kenya](../assets/images/projects/phd-blog/03-bivariate_kenya.png)
 
