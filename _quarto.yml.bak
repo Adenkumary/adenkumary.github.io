@@ -1,0 +1,77 @@
+project:
+  type: website
+
+website:
+  title: "Aden Kumary"
+  description: "Architect & PhD Student @ University of Cambridge"
+  site-url: https://adenkumary.github.io/
+  back-to-top-navigation: true
+  open-graph: true
+  # google-analytics: G-EZYSPQ2878
+  search: 
+    location: navbar
+    type: textbox
+  navbar:  
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
+      - href: Portfolio.qmd
+        text: Portfolio
+      - href: Photography.qmd
+        text: Photography
+      # - href: talks-slides/index.qmd
+      #   text: Talks
+      # - href: services.qmd
+      #   text: Services
+  page-footer: 
+    center: 
+      - icon: github
+        href: https://github.com/Adenkumary
+      # - text: "{{< iconify fa7-brands bluesky >}}"
+      #   href: https://bsky.app/profile/ancazugo.bsky.social
+      # - icon: twitter
+      #   href: https://x.com/ancazugo
+      # - icon: instagram
+      #   href: https://www.instagram.com/ancazugo/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/adenkumary/
+      - text: "{{< iconify fa6-brands behance >}}"
+        href: https://www.behance.net/Adenkumary
+      - text: "{{< iconify academicons researchgate-square >}}"
+      #  href: https://www.researchgate.net/profile/Andres-Zuniga-Gonzalez
+      - text: "{{< iconify academicons google-scholar-square >}}"
+      # href: https://scholar.google.com/citations?hl=en&user=9guCE0wAAAAJ
+      - text: "{{< iconify majesticons rss >}}"
+        href: blog.xml 
+      - text: "{{< iconify fa7-solid envelope >}}"
+        href: mailto:adenkumary@gmail.com
+    left: >-
+     &#169; Aden Kumary &#8729; made with {{< quarto >}}
+    right: >-
+     {{< iconify material-symbols update-rounded >}} {{< env LAST_UPDATED >}}
+      
+format:
+  html:
+    theme:
+      light: lightly
+      dark: darkly
+    css: assets/styles/styles.css
+    toc: true
+    grid: 
+      body-width: 1000px
+
+comments:
+  utterances:
+    repo: adenkumary/adenkumary.github.io
+
+# filters:
+#   - watermark
+
+# watermark:
+#   text: Site under construction
+#   size: 1
+#   opacity: 0.05
