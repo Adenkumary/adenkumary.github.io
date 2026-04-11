@@ -7,7 +7,6 @@ categories:
 license: "CC BY"
 copyright:
     holder: "Aden Kumary"
-    month: April
     year: 2026
 ---
 
