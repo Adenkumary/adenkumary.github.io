@@ -1,5 +1,5 @@
 ---
-title: Two Weeks, Two Conferences, and a Deeper Dive into Nairobi’s Urban Heat
+title: Two Week,Two Conferences, and a Deeper Dive into Nairobi’s Urban Heat
 date: 2026-03-28
 image: ../assets/images/projects/phd-blog/03-IMG_6484.jpg
 categories:
