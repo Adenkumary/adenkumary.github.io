@@ -1,7 +1,7 @@
 ---
 title: Heat Adaptive architecture design competition winner
 date: 2026-04-10
-image: ../assets/images/projects/phd-blog/A.png
+image: ../assets/images/projects/phd-blog/03-Jnet-news.png
 categories:
 - News
 license: "CC BY"
