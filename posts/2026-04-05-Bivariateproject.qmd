@@ -3,7 +3,7 @@ title: Mapping the Interplay; Temperature vs Precipitation in Africa
 date: 2026-04-05
 image: ../assets/images/projects/phd-blog/03-bivariate_africa.png
 categories:
-- project
+- Project
 license: "CC BY"
 copyright:
     holder: "Aden Kumary"
